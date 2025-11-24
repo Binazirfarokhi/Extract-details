@@ -1,11 +1,10 @@
-# Extract-details from PDF 
 
 ## Document Processing with Power Automate & AI Builder
 
 This project demonstrates how to use **Power Automate** and **AI Builder** to automatically extract key information from PDF documents and make it available for different business scenarios (validation, reporting, or storing in data sources).
 ## Demo
 
-![Document processing demo](./document-processing-demo.gif)
+![Document processing demo](./PDF-Extract.gif)
 
 
 ### Project Overview
